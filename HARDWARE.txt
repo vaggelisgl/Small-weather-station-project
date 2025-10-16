@@ -1,1 +1,2 @@
-Since this project was done quite a while ago, the hardware has been disassembled, although it was just three devices connected through SDA,SCL, so there wasn't much to it anyway.
+Since this project was done quite a while ago, the hardware has been disassembled, 
+although it was just three devices connected through SDA,SCL, so there wasn't much to it anyway.
